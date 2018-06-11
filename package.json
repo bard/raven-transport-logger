@@ -1,0 +1,21 @@
+{
+  "name": "raven-transport-logger",
+  "version": "1.0.0",
+  "description": "Route error information collected by Raven to a logger",
+  "author": {
+    "name": "Massimiliano Mirra",
+    "email": "hyperstruct@gmail.com",
+    "url": "https://massimilianomirra.com"
+  },
+  "license": "MIT",
+  "keywords": ["debugging", "errors", "exceptions", "logging", "raven", "sentry"],
+  "repository": {
+    "url": "https://github.com/bard/raven-transport-logger",
+    "type": "git"
+  },
+  "dependencies": {
+    "object.pick": "^1.3.0",
+    "pino": "^4.17.3",
+    "raven": "^2.6.2"
+  }
+}
